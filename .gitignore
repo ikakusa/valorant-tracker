@@ -1,0 +1,8 @@
+dist/
+node_modules/
+build/
+backend/build
+backend/__pycache__
+backend/Src/
+backend/Src/Utils/__pycache__
+ValorantTracker/
